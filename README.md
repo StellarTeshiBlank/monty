@@ -1,4 +1,5 @@
-# The Goal of this project is to create an interpreter for Monty ByteCodes Files
+# Goal: 
+This project is to create an interpreter for Monty ByteCodes Files
 
 ## Monty ByteCode Files
 * The Monty byte codes usually have the .m extension. 
